@@ -18,4 +18,6 @@
     <img aling="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> 
 </div><br>
 
+Atualalmente estou resolvendo problemas com o foco no font-end e estou me apaixonando cada vez mais pela área 
+
 Apaixonado por tecnologia desde pequeno, larguei a minha carreira de contador e resolvi iniciar no ramo tecnológico pois acredito que trabalhar com o que você ama é a mesma coisa que fazer seu hobbie para o resto da vida.
