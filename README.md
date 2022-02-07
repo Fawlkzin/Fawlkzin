@@ -8,6 +8,9 @@
 
 ![Jefferson GitHub stats](https://github-readme-stats.vercel.app/api?username=Fawlkzin&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fawlkzin)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Tecnologias que eu utilizo no meu dia a dia:
 
 <div style="display inline-block">
